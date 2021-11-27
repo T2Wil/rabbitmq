@@ -7,6 +7,14 @@ docker run -d --rm --hostname local-rabbit --name rabbitmq -p 15672:15672 -p 567
 
 ```
 
+## Access Rabbitmq UI in the browser
+
+
+- url: `localhost:15672`
+- Username: `guest`
+- password: `guest`
+
+
 ## Initialize dependencies
 
 ```
